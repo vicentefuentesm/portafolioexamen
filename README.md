@@ -2,6 +2,6 @@ Proyecto de análisis y predicción del nivel de PIB de distintos países utiliz
 
 El desarrollo se organiza en tres etapas:
 
-Análisis descriptivo e imputación de datos.
-Reducción de dimensionalidad mediante PCA.
-Modelación con algoritmos de clasificación.
+1. Análisis descriptivo e imputación de datos.
+2. Reducción de dimensionalidad mediante PCA.
+3. Modelación con algoritmos de clasificación.
